@@ -1,0 +1,490 @@
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:36:32.567Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:36:32.580Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:37:43.953Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:37:43.963Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:38:04.139Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:38:14.153Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:38:37.925Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:38:47.952Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:42:06.655Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:42:06.669Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:45:02.213Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:45:02.226Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:47:17.289Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:47:17.301Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T07:52:44.628Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T07:52:44.641Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:07:36.354Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:07:36.367Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:08:19.283Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:08:19.297Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:08:47.407Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:08:47.421Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:14:14.875Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:14:14.887Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:14:57.649Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:14:57.659Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:15:13.247Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:15:13.258Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:15:26.090Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:16:12.016Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:16:22.031Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:18:54.932Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:19:04.950Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:26:48.315Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:33:22.202Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:33:32.214Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:33:45.604Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:33:55.632Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:36:09.524Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:36:19.539Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:36:40.912Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:36:40.925Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:42:04.006Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:42:04.020Z'
+}
+{
+  level: 'info',
+  message: 'Test end',
+  timestamp: '2020-04-18T08:42:04.023Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:42:38.732Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:42:38.748Z'
+}
+{
+  level: 'info',
+  message: 'Test end',
+  timestamp: '2020-04-18T08:42:38.749Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:43:37.168Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:43:37.180Z'
+}
+{
+  level: 'info',
+  message: 'Test end',
+  timestamp: '2020-04-18T08:43:37.182Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:44:15.271Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:44:15.285Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:58:14.545Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:58:14.561Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T08:59:00.921Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T08:59:00.936Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T09:01:36.666Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T09:01:36.680Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T09:01:59.568Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T09:01:59.581Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T09:02:32.397Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T09:02:32.411Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T09:08:59.944Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T09:08:59.958Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T09:09:24.731Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T09:09:24.744Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:38:29.939Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:38:30.114Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:39:21.942Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:39:22.133Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:40:33.772Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:43:04.673Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:43:04.864Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:45:39.361Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:45:39.542Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:45:57.438Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:45:57.515Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T12:46:32.712Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T12:46:32.792Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:41:08.275Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:41:08.358Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:41:16.621Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:41:16.689Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:43:05.756Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:43:05.857Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:43:25.374Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:43:25.459Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:39.734Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:39.799Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:46.381Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:46.446Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:52.033Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:44:52.101Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:45:10.117Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:45:10.197Z'
+}
+{
+  message: 'Server started',
+  level: 'info',
+  timestamp: '2020-04-18T13:45:45.177Z'
+}
+{
+  message: 'Server stopped',
+  level: 'info',
+  timestamp: '2020-04-18T13:45:45.257Z'
+}

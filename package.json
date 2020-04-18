@@ -1,0 +1,38 @@
+{
+  "name": "nano-options",
+  "version": "2.0.0",
+  "description": "test preflight",
+  "author": "Leos Literak",
+  "license": "TBD",
+  "main": "nano-server.js",
+  "scripts": {
+    "nano": "nodemon start-nano.js",
+    "cors": "nodemon nano-cors.js",
+    "express": "nodemon express-server.js",
+    "test": "jest --config jest.config.js",
+    "test:dbg": "jest --config jest.config.js --detectOpenHandles"
+  },
+  "dependencies": {
+    "ajv": "^6.12.0",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^25.3.0",
+    "jwt-decode": "^2.2.0",
+    "nanoexpress": "^1.1.18",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "node_modules/*"
+    ],
+    "watch": [
+      "src/**/*",
+      "src/server.js"
+    ]
+  }
+}
